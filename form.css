@@ -1,0 +1,64 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(223, 185, 236); 
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    /* color: white; */
+}
+#nav ul{
+    display: flex;  
+    text-align: center;
+    
+}
+ul li{
+    font-size: 20px;
+    list-style-type: none;
+    letter-spacing: normal;
+    padding: 0 10px;
+}
+ul li a{
+    text-decoration: none;
+}
+
+/* ===============form style start here-======================================== */
+.form{
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+    margin-top: 30px;
+    border-radius: 5px solid red;
+}
+div.form
+{
+    width: 700px;
+    display: block;
+    text-align: center;
+    border-radius: 5px solid red;
+}
+.h2{
+    text-align: center;
+}
+.label{
+    text-align: left;
+}
+input{
+   width: 500px;
+    padding: 12px;
+    margin: 10px 0;
+    border: 3px solid black0;
+    border-radius: 5px;
+}
+select{
+    width: 530px;
+    padding: 12px;
+    margin: 10px 0;
+    border: 3px solid black0;
+    border-radius: 5px;
+}
+p{
+    text-align: center;
+}
+
+
+/* ===============form style end here-======================================== */
