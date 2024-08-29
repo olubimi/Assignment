@@ -84,5 +84,14 @@ p{
 }
 
 
-
+@media (max-width: 320px) { 
+    .grid-container{
+        width: 80%;
+    }
+  }
+  @media (max-width: 768px){
+    .grid-container{
+        width: 80%;
+    }
+  }
 /* ===============form style end here-======================================== */
